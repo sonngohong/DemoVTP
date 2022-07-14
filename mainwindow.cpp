@@ -17,7 +17,7 @@
 #include <Windows.h>
 
 #include <fstream>
-
+#include <bits/stdc++.h>
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
