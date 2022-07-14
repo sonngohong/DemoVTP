@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <string>
 
+// Add a new comment
+
 using namespace std;
 
 QT_BEGIN_NAMESPACE
